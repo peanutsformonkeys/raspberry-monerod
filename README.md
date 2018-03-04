@@ -416,7 +416,7 @@ $ sudo su - monero
 $ /opt/monero/monerod --restricted-rpc --rpc-bind-ip 192.168.0.100 --confirm-external-bind --fluffy-blocks --block-sync-size 1
 …
 ```
-Wait until it prints `**SYNCHRONIZED OK**`. Then, type `exit` to stop the daemon, and to return to your own user:
+Wait until it prints **`SYNCHRONIZED OK`**. Then, type `exit` to stop the daemon, and to return to your own user:
 ```
 $ exit
 ```
