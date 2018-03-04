@@ -242,7 +242,7 @@ Next, add a 4rd primary partition:
 
 ![](/images/GParted-SPACE.png)
 
-There should no be 3 pending operations:
+There should now be 3 pending operations:
 
 ![](/images/GParted-Pending.png)
 
