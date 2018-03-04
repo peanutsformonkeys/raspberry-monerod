@@ -428,3 +428,5 @@ $ sudo reboot
 ```
 
 That's it! :beer:
+
+You can now use the IP address of your Raspberry Pi as a local node, with port number `18081`.
