@@ -324,13 +324,7 @@ Perform a software update:
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo rpi-update
-```
-
-> **Note:** In order to avoid any “System program problem detected” dialogs, disable the Apport crash reporting feature by editing the file `/etc/default/apport` and changing `enabled=1` into `enabled=0`.
-
-Optionally, remove crash reports in `/var/crash`:
-```
-$ sudo rm /var/crash/*
+$ sudo reboot
 ```
 
 Also, install the Chromium web browser:
