@@ -326,7 +326,7 @@ $ sudo apt-get upgrade
 $ sudo rpi-update
 ```
 
-> ***Note:*** In order to avoid any “System program problem detected” dialogs, disable the Apport crash reporting feature by editing the file `/etc/default/apport` and changing `enabled=1` into `enabled=0`.
+> **Note:** In order to avoid any “System program problem detected” dialogs, disable the Apport crash reporting feature by editing the file `/etc/default/apport` and changing `enabled=1` into `enabled=0`.
 
 Optionally, remove crash reports in `/var/crash`:
 ```
@@ -337,7 +337,7 @@ Also, install the Chromium web browser:
 ```
 $ sudo apt-get install chromium-browser
 ```
-### Monero
+## Monero
 
 Start the Chromium web browser and download the latest Monero release for ARMv7, e.g. `monero-linux-armv7-v0.11.1.0.tar.bz2`, from https://downloads.getmonero.org/cli/linuxarm7.
 
