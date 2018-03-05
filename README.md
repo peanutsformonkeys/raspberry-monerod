@@ -6,7 +6,7 @@ Certain steps assume macOS as your primary operating system.
 ## Hardware
 * [x] Raspberry Pi 3
 * [x] Adafruit orange base case and lid: https://www.adafruit.com/product/2250
-* [x] Anker 24 Watt 2-Port USB Adapter, 2 × 2.4 A
+* [x] USB power adapter, e.g. Anker 24 Watt 2-Port USB Adapter, 2 × 2.4 A
 * [x] USB to micro-USB cable
 * [x] high-performance microSD card ≥ 128 GB, e.g.: Samsung EVO+ 256 GB
   * 95MB/s Read Speed
