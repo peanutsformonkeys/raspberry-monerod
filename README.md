@@ -333,16 +333,16 @@ $ sudo apt-get install chromium-browser
 ```
 ## Monero
 
-Start the Chromium web browser and download the latest Monero release for ARMv7, e.g. `monero-linux-armv7-v0.11.1.0.tar.bz2`, from https://downloads.getmonero.org/cli/linuxarm7.
+Start the Chromium web browser and download the latest Monero release for ARMv7, e.g. `monero-linux-armv7-v0.12.0.0.tar.bz2`, from https://downloads.getmonero.org/cli/linuxarm7.
 
 Create a directory for the Monero software, and install the downloaded software in `/opt`:
 ```
 $ sudo su -
 # cd /opt
-# mkdir monero-linux-armv7-v0.11.1.0
+# mkdir monero-linux-armv7-v0.12.0.0
 # ln -s ${_} monero
 # cd monero
-# bzcat /home/username/Downloads/monero-linux-armv7-v0.11.1.0.tar.bz2 | tar -xf -
+# bzcat /home/username/Downloads/monero-linux-armv7-v0.12.0.0.tar.bz2 | tar -xf -
 # exit
 ```
 
